@@ -1,0 +1,424 @@
+Nayeon,Twice,JYP Entertainment,Like Ooh-Ahh
+Jeongyeon,Twice,JYP Entertainment,Like Ooh-Ahh
+Momo,Twice,JYP Entertainment,Like Ooh-Ahh
+Sana,Twice,JYP Entertainment,Like Ooh-Ahh
+Jihyo,Twice,JYP Entertainment,Like Ooh-Ahh
+Mina,Twice,JYP Entertainment,Like Ooh-Ahh
+Dahyun,Twice,JYP Entertainment,Like Ooh-Ahh
+Chaeyoung,Twice,JYP Entertainment,Like Ooh-Ahh
+Tzuyu,Twice,JYP Entertainment,Like Ooh-Ahh
+Nayeon,Twice,JYP Entertainment,TT
+Jeongyeon,Twice,JYP Entertainment,TT
+Momo,Twice,JYP Entertainment,TT
+Sana,Twice,JYP Entertainment,TT
+Jihyo,Twice,JYP Entertainment,TT
+Mina,Twice,JYP Entertainment,TT
+Dahyun,Twice,JYP Entertainment,TT
+Chaeyoung,Twice,JYP Entertainment,TT
+Tzuyu,Twice,JYP Entertainment,TT
+Nayeon,Twice,JYP Entertainment,I Can't Stop Me
+Jeongyeon,Twice,JYP Entertainment,I Can't Stop Me
+Momo,Twice,JYP Entertainment,I Can't Stop Me
+Sana,Twice,JYP Entertainment,I Can't Stop Me
+Jihyo,Twice,JYP Entertainment,I Can't Stop Me
+Mina,Twice,JYP Entertainment,I Can't Stop Me
+Dahyun,Twice,JYP Entertainment,I Can't Stop Me
+Chaeyoung,Twice,JYP Entertainment,I Can't Stop Me
+Tzuyu,Twice,JYP Entertainment,I Can't Stop Me
+Jisoo,BLACKPINK,YG Entertainment,Boombayah
+Rosé,BLACKPINK,YG Entertainment,Boombayah
+Jennie,BLACKPINK,YG Entertainment,Boombayah
+Lisa,BLACKPINK,YG Entertainment,Boombayah
+Jisoo,BLACKPINK,YG Entertainment,DDU-DU DDU-DU
+Rosé,BLACKPINK,YG Entertainment,DDU-DU DDU-DU
+Jennie,BLACKPINK,YG Entertainment,DDU-DU DDU-DU
+Lisa,BLACKPINK,YG Entertainment,DDU-DU DDU-DU
+Jisoo,BLACKPINK,YG Entertainment,How You Like That
+Rosé,BLACKPINK,YG Entertainment,How You Like That
+Jennie,BLACKPINK,YG Entertainment,How You Like That
+Lisa,BLACKPINK,YG Entertainment,How You Like That
+Hwasa,MAMAMOO,RBW,Mr. Ambiguous
+Moonbyul,MAMAMOO,RBW,Mr. Ambiguous
+Solar,MAMAMOO,RBW,Mr. Ambiguous
+Wheein,MAMAMOO,RBW,Mr. Ambiguous
+Hwasa,MAMAMOO,RBW,HIP
+Moonbyul,MAMAMOO,RBW,HIP
+Solar,MAMAMOO,RBW,HIP
+Wheein,MAMAMOO,RBW,HIP
+Hwasa,MAMAMOO,RBW,Dingga
+Moonbyul,MAMAMOO,RBW,Dingga
+Solar,MAMAMOO,RBW,Dingga
+Wheein,MAMAMOO,RBW,Dingga
+Soyeon,(G)I-DLE,CUBE Entertainment,LATATA
+Soojin,(G)I-DLE,CUBE Entertainment,LATATA
+Yuqi,(G)I-DLE,CUBE Entertainment,LATATA
+Minnie,(G)I-DLE,CUBE Entertainment,LATATA
+Miyeon,(G)I-DLE,CUBE Entertainment,LATATA
+Shuhua,(G)I-DLE,CUBE Entertainment,LATATA
+Soyeon,(G)I-DLE,CUBE Entertainment,Oh my god
+Soojin,(G)I-DLE,CUBE Entertainment,Oh my god
+Yuqi,(G)I-DLE,CUBE Entertainment,Oh my god
+Minnie,(G)I-DLE,CUBE Entertainment,Oh my god
+Miyeon,(G)I-DLE,CUBE Entertainment,Oh my god
+Shuhua,(G)I-DLE,CUBE Entertainment,Oh my god
+Soyeon,(G)I-DLE,CUBE Entertainment,화(火花)(HWAA)
+Soojin,(G)I-DLE,CUBE Entertainment,화(火花)(HWAA)
+Yuqi,(G)I-DLE,CUBE Entertainment,화(火花)(HWAA)
+Minnie,(G)I-DLE,CUBE Entertainment,화(火花)(HWAA)
+Miyeon,(G)I-DLE,CUBE Entertainment,화(火花)(HWAA)
+Shuhua,(G)I-DLE,CUBE Entertainment,화(火花)(HWAA)
+Yeji,ITZY,JYP Entertainment,DALLA DALLA
+Yuna,ITZY,JYP Entertainment,DALLA DALLA
+Ryujin,ITZY,JYP Entertainment,DALLA DALLA
+Chaeryeong,ITZY,JYP Entertainment,DALLA DALLA
+Lia,ITZY,JYP Entertainment,DALLA DALLA
+Yeji,ITZY,JYP Entertainment,Wannabe
+Yuna,ITZY,JYP Entertainment,Wannabe
+Ryujin,ITZY,JYP Entertainment,Wannabe
+Chaeryeong,ITZY,JYP Entertainment,Wannabe
+Lia,ITZY,JYP Entertainment,Wannabe
+Yeji,ITZY,JYP Entertainment,Not Shy
+Yuna,ITZY,JYP Entertainment,Not Shy
+Ryujin,ITZY,JYP Entertainment,Not Shy
+Chaeryeong,ITZY,JYP Entertainment,Not Shy
+Lia,ITZY,JYP Entertainment,Not Shy
+Baby Soul,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Jiae,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Jisoo,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Mijoo,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Kei,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Jin,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Sujeong,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Yein,Lovelyz,Woollim Entertainment,Good Night Like Yesterday
+Baby Soul,Lovelyz,Woollim Entertainment,Ah-Choo
+Jiae,Lovelyz,Woollim Entertainment,Ah-Choo
+Jisoo,Lovelyz,Woollim Entertainment,Ah-Choo
+Mijoo,Lovelyz,Woollim Entertainment,Ah-Choo
+Kei,Lovelyz,Woollim Entertainment,Ah-Choo
+Jin,Lovelyz,Woollim Entertainment,Ah-Choo
+Sujeong,Lovelyz,Woollim Entertainment,Ah-Choo
+Yein,Lovelyz,Woollim Entertainment,Ah-Choo
+Baby Soul,Lovelyz,Woollim Entertainment,Obliviate
+Jiae,Lovelyz,Woollim Entertainment,Obliviate
+Jisoo,Lovelyz,Woollim Entertainment,Obliviate
+Mijoo,Lovelyz,Woollim Entertainment,Obliviate
+Kei,Lovelyz,Woollim Entertainment,Obliviate
+Jin,Lovelyz,Woollim Entertainment,Obliviate
+Sujeong,Lovelyz,Woollim Entertainment,Obliviate
+Yein,Lovelyz,Woollim Entertainment,Obliviate
+E:U,Everglow,Yuehua Entertainment,Bon Bon Chocolat
+Sihyeon,Everglow,Yuehua Entertainment,Bon Bon Chocolat
+Mia,Everglow,Yuehua Entertainment,Bon Bon Chocolat
+Onda,Everglow,Yuehua Entertainment,Bon Bon Chocolat
+Aisha,Everglow,Yuehua Entertainment,Bon Bon Chocolat
+Yiren,Everglow,Yuehua Entertainment,Bon Bon Chocolat
+E:U,Everglow,Yuehua Entertainment,DUN DUN
+Sihyeon,Everglow,Yuehua Entertainment,DUN DUN
+Mia,Everglow,Yuehua Entertainment,DUN DUN
+Onda,Everglow,Yuehua Entertainment,DUN DUN
+Aisha,Everglow,Yuehua Entertainment,DUN DUN
+Yiren,Everglow,Yuehua Entertainment,DUN DUN
+E:U,Everglow,Yuehua Entertainment,La Di Da
+Sihyeon,Everglow,Yuehua Entertainment,La Di Da
+Mia,Everglow,Yuehua Entertainment,La Di Da
+Onda,Everglow,Yuehua Entertainment,La Di Da
+Aisha,Everglow,Yuehua Entertainment,La Di Da
+Yiren,Everglow,Yuehua Entertainment,La Di Da
+Irene,Red Velvet,SM Entertainment,Automatic
+Seulgi,Red Velvet,SM Entertainment,Automatic
+Wendy,Red Velvet,SM Entertainment,Automatic
+Joy,Red Velvet,SM Entertainment,Automatic
+Yeri,Red Velvet,SM Entertainment,Automatic
+Irene,Red Velvet,SM Entertainment,Bad Boy
+Seulgi,Red Velvet,SM Entertainment,Bad Boy
+Wendy,Red Velvet,SM Entertainment,Bad Boy
+Joy,Red Velvet,SM Entertainment,Bad Boy
+Yeri,Red Velvet,SM Entertainment,Bad Boy
+Irene,Red Velvet,SM Entertainment,Psycho
+Seulgi,Red Velvet,SM Entertainment,Psycho
+Wendy,Red Velvet,SM Entertainment,Psycho
+Joy,Red Velvet,SM Entertainment,Psycho
+Yeri,Red Velvet,SM Entertainment,Psycho
+HeeJin,LOONA,Blockberry Creative,Hi High
+HyunJin,LOONA,Blockberry Creative,Hi High
+HaSeul,LOONA,Blockberry Creative,Hi High
+YeoJin,LOONA,Blockberry Creative,Hi High
+ViVi,LOONA,Blockberry Creative,Hi High
+Kim Lip,LOONA,Blockberry Creative,Hi High
+JinSoul,LOONA,Blockberry Creative,Hi High
+Choerry,LOONA,Blockberry Creative,Hi High
+Yves,LOONA,Blockberry Creative,Hi High
+Chuu,LOONA,Blockberry Creative,Hi High
+Go Won,LOONA,Blockberry Creative,Hi High
+Olivia Hye,LOONA,Blockberry Creative,Hi High
+HeeJin,LOONA,Blockberry Creative,Butterfly
+HyunJin,LOONA,Blockberry Creative,Butterfly
+HaSeul,LOONA,Blockberry Creative,Butterfly
+YeoJin,LOONA,Blockberry Creative,Butterfly
+ViVi,LOONA,Blockberry Creative,Butterfly
+Kim Lip,LOONA,Blockberry Creative,Butterfly
+JinSoul,LOONA,Blockberry Creative,Butterfly
+Choerry,LOONA,Blockberry Creative,Butterfly
+Yves,LOONA,Blockberry Creative,Butterfly
+Chuu,LOONA,Blockberry Creative,Butterfly
+Go Won,LOONA,Blockberry Creative,Butterfly
+Olivia Hye,LOONA,Blockberry Creative,Butterfly
+HeeJin,LOONA,Blockberry Creative,Why Not?
+HyunJin,LOONA,Blockberry Creative,Why Not?
+YeoJin,LOONA,Blockberry Creative,Why Not?
+ViVi,LOONA,Blockberry Creative,Why Not?
+Kim Lip,LOONA,Blockberry Creative,Why Not?
+JinSoul,LOONA,Blockberry Creative,Why Not?
+Choerry,LOONA,Blockberry Creative,Why Not?
+Yves,LOONA,Blockberry Creative,Why Not?
+Chuu,LOONA,Blockberry Creative,Why Not?
+Go Won,LOONA,Blockberry Creative,Why Not?
+Olivia Hye,LOONA,Blockberry Creative,Why Not?	
+Taeyeon,Girls' Generation,SM Entertainment,Into The New World
+Sunny,Girls' Generation,SM Entertainment,Into The New World
+Tiffany,Girls' Generation,SM Entertainment,Into The New World
+Hyoyeon,Girls' Generation,SM Entertainment,Into The New World
+Yuri,Girls' Generation,SM Entertainment,Into The New World
+Sooyoung,Girls' Generation,SM Entertainment,Into The New World
+Yoona,Girls' Generation,SM Entertainment,Into The New World
+Seohyun,Girls' Generation,SM Entertainment,Into The New World
+Jessica,Girls' Generation,SM Entertainment,Into The New World
+Taeyeon,Girls' Generation,SM Entertainment,Gee
+Sunny,Girls' Generation,SM Entertainment,Gee
+Tiffany,Girls' Generation,SM Entertainment,Gee
+Hyoyeon,Girls' Generation,SM Entertainment,Gee
+Yuri,Girls' Generation,SM Entertainment,Gee
+Sooyoung,Girls' Generation,SM Entertainment,Gee
+Yoona,Girls' Generation,SM Entertainment,Gee
+Seohyun,Girls' Generation,SM Entertainment,Gee
+Jessica,Girls' Generation,SM Entertainment,Gee
+Taeyeon,Girls' Generation,SM Entertainment,The Boys
+Sunny,Girls' Generation,SM Entertainment,The Boys
+Tiffany,Girls' Generation,SM Entertainment,The Boys
+Hyoyeon,Girls' Generation,SM Entertainment,The Boys
+Yuri,Girls' Generation,SM Entertainment,The Boys
+Sooyoung,Girls' Generation,SM Entertainment,The Boys
+Yoona,Girls' Generation,SM Entertainment,The Boys
+Seohyun,Girls' Generation,SM Entertainment,The Boys
+Jessica,Girls' Generation,SM Entertainment,The Boys
+Jin,BTS,Big Hit Entertainment,Boy With Luv
+Suga,BTS,Big Hit Entertainment,Boy With Luv
+J-Hope,BTS,Big Hit Entertainment,Boy With Luv
+RM,BTS,Big Hit Entertainment,Boy With Luv
+Jimin,BTS,Big Hit Entertainment,Boy With Luv
+V,BTS,Big Hit Entertainment,Boy With Luv
+Jungkook,BTS,Big Hit Entertainment,Boy With Luv
+Jin,BTS,Big Hit Entertainment,DNA
+Suga,BTS,Big Hit Entertainment,DNA
+J-Hope,BTS,Big Hit Entertainment,DNA
+RM,BTS,Big Hit Entertainment,DNA
+Jimin,BTS,Big Hit Entertainment,DNA
+V,BTS,Big Hit Entertainment,DNA
+Jungkook,BTS,Big Hit Entertainment,DNA
+Jin,BTS,Big Hit Entertainment,Dynamite
+Suga,BTS,Big Hit Entertainment,Dynamite
+J-Hope,BTS,Big Hit Entertainment,Dynamite
+RM,BTS,Big Hit Entertainment,Dynamite
+Jimin,BTS,Big Hit Entertainment,Dynamite
+V,BTS,Big Hit Entertainment,Dynamite
+Jungkook,BTS,Big Hit Entertainment,Dynamite
+Bang Chan,Stray Kids,JYP Entertainment,District 9
+Lee Know,Stray Kids, JYP Entertainment,District 9
+Changbin,Stray Kids,JYP Entertainment,District 9
+Hyunjin,Stray Kids,JYP Entertainment,District 9
+Han,Stray Kids,JYP Entertainment,District 9
+Felix,Stray Kids,JYP Entertainment,District 9
+Seungmin,Stray Kids,JYP Entertainment,District 9
+I.N,Stray Kids,JYP Entertainment,District 9
+Woojin,Stray Kids,JYP Entertainment,District 9
+Bang Chan,Stray Kids,JYP Entertainment,God's Menu
+Lee Know,Stray Kids, JYP Entertainment,God's Menu
+Changbin,Stray Kids,JYP Entertainment,God's Menu
+Hyunjin,Stray Kids,JYP Entertainment,God's Menu
+Han,Stray Kids,JYP Entertainment,God's Menu
+Felix,Stray Kids,JYP Entertainment,God's Menu
+Seungmin,Stray Kids,JYP Entertainment,God's Menu
+I.N,Stray Kids,JYP Entertainment,God's Menu
+Bang Chan,Stray Kids,JYP Entertainment,Back Door
+Lee Know,Stray Kids,JYP Entertainment,Back Door
+Changbin,Stray Kids,JYP Entertainment,Back Door
+Hyunjin,Stray Kids,JYP Entertainment,Back Door
+Han,Stray Kids,JYP Entertainment,Back Door
+Felix,Stray Kids,JYP Entertainment,Back Door
+Seungmin,Stray Kids,JYP Entertainment,Back Door
+I.N,Stray Kids,JYP Entertainment,Back Door
+Xiumin,EXO,SM Entertainment,Love Shot
+Suho,EXO,SM Entertainment,Love Shot
+Lay,EXO,SM Entertainment,Love Shot
+Baekhyun,EXO,SM Entertainment,Love Shot
+Chen,EXO,SM Entertainment,Love Shot
+Chanyeol,EXO,SM Entertainment,Love Shot
+D.O.,EXO,SM Entertainment,Love Shot
+Kai,EXO,SM Entertainment,Love Shot
+Sehun,EXO,SM Entertainment,Love Shot
+Xiumin,EXO,SM Entertainment,Monster
+Suho,EXO,SM Entertainment,Monster
+Lay,EXO,SM Entertainment,Monster
+Baekhyun,EXO,SM Entertainment,Monster
+Chen,EXO,SM Entertainment,Monster
+Chanyeol,EXO,SM Entertainment,Monster
+D.O.,EXO,SM Entertainment,Monster
+Kai,EXO,SM Entertainment,Monster
+Sehun,EXO,SM Entertainment,Monster
+Xiumin,EXO,SM Entertainment,Call Me Baby
+Suho,EXO,SM Entertainment,Call Me Baby
+Lay,EXO,SM Entertainment,Call Me Baby
+Baekhyun,EXO,SM Entertainment,Call Me Baby
+Chen,EXO,SM Entertainment,Call Me Baby
+Chanyeol,EXO,SM Entertainment,Call Me Baby
+D.O.,EXO,SM Entertainment,Call Me Baby
+Kai,EXO,SM Entertainment,Call Me Baby
+Sehun,EXO,SM Entertainment,Call Me Baby
+Jinhwan,iKON,YG Entertainment,My Type
+Yunhyeong,iKON,YG Entertainment,My Type
+Bobby,iKON,YG Entertainment,My Type
+Donghyuk,iKON,YG Entertainment,My Type
+Ju-ne,iKON,YG Entertainment,My Type
+Chanwoo,iKON,YG Entertainment,My Type
+B.I,iKON,YG Entertainment,My Type
+Jinhwan,iKON,YG Entertainment,Love Scenario
+Yunhyeong,iKON,YG Entertainment,Love Scenario
+Bobby,iKON,YG Entertainment,Love Scenario
+Donghyuk,iKON,YG Entertainment,Love Scenario
+Ju-ne,iKON,YG Entertainment,Love Scenario
+Chanwoo,iKON,YG Entertainment,Love Scenario
+B.I,iKON,YG Entertainment,Love Scenario
+Jinhwan,iKON,YG Entertainment,Why Why Why
+Yunhyeong,iKON,YG Entertainment,Why Why Why
+Bobby,iKON,YG Entertainment,Why Why Why
+Donghyuk,iKON,YG Entertainment,Why Why Why
+Ju-ne,iKON,YG Entertainment,Why Why Why
+Chanwoo,iKON,YG Entertainment,Why Why Why
+T.O.P,BIGBANG,YG Entertainment,Loser
+Taeyang,BIGBANG,YG Entertainment,Loser
+G-Dragon,BIGBANG,YG Entertainment,Loser
+Seungri,BIGBANG,YG Entertainment,Loser
+Daesung,BIGBANG,YG Entertainment,Loser
+T.O.P,BIGBANG,YG Entertainment,Fantastic Baby
+Taeyang,BIGBANG,YG Entertainment,Fantastic Baby
+G-Dragon,BIGBANG,YG Entertainment,Fantastic Baby
+Seungri,BIGBANG,YG Entertainment,Fantastic Baby
+Daesung,BIGBANG,YG Entertainment,Fantastic Baby
+T.O.P,BIGBANG,YG Entertainment,BANG BANG BANG
+Taeyang,BIGBANG,YG Entertainment,BANG BANG BANG
+G-Dragon,BIGBANG,YG Entertainment,BANG BANG BANG
+Seungri,BIGBANG,YG Entertainment,BANG BANG BANG
+Daesung,BIGBANG,YG Entertainment,BANG BANG BANG
+Jinho,Pentagon,CUBE Entertainment,Shine
+Hui,Pentagon,CUBE Entertainment,Shine
+Hongseok,Pentagon,CUBE Entertainment,Shine
+Shinwon,Pentagon,CUBE Entertainment,Shine
+Yeo One,Pentagon,CUBE Entertainment,Shine
+Yan An,Pentagon,CUBE Entertainment,Shine
+Yuto,Pentagon,CUBE Entertainment,Shine
+Kino,Pentagon,CUBE Entertainment,Shine
+Wooseok,Pentagon,CUBE Entertainment,Shine
+E'Dawn,Pentagon,CUBE Entertainment,Shine
+Jinho,Pentagon,CUBE Entertainment,Daisy
+Hui,Pentagon,CUBE Entertainment,Daisy
+Hongseok,Pentagon,CUBE Entertainment,Daisy
+Shinwon,Pentagon,CUBE Entertainment,Daisy
+Yeo One,Pentagon,CUBE Entertainment,Daisy
+Yan An,Pentagon,CUBE Entertainment,Daisy
+Yuto,Pentagon,CUBE Entertainment,Daisy
+Kino,Pentagon,CUBE Entertainment,Daisy
+Wooseok,Pentagon,CUBE Entertainment,Daisy
+Jinho,Pentagon,CUBE Entertainment,Critical Beauty
+Hui,Pentagon,CUBE Entertainment,Critical Beauty
+Hongseok,Pentagon,CUBE Entertainment,Critical Beauty
+Shinwon,Pentagon,CUBE Entertainment,Critical Beauty
+Yeo One,Pentagon,CUBE Entertainment,Critical Beauty
+Yan An,Pentagon,CUBE Entertainment,Critical Beauty
+Yuto,Pentagon,CUBE Entertainment,Critical Beauty
+Kino,Pentagon,CUBE Entertainment,Critical Beauty
+Wooseok,Pentagon,CUBE Entertainment,Critical Beauty
+E'Dawn,Pentagon,CUBE Entertainment,Critical Beauty
+Yeonjun,TXT,Big Hit Entertainment,Crown
+Soobin,TXT,Big Hit Entertainment,Crown
+Beomgyu,TXT,Big Hit Entertainment,Crown
+Taehyun,TXT,Big Hit Entertainment,Crown
+HueningKai,TXT,Big Hit Entertainment,Crown
+Yeonjun,TXT,Big Hit Entertainment,Can't You See Me?
+Soobin,TXT,Big Hit Entertainment,Can't You See Me?
+Beomgyu,TXT,Big Hit Entertainment,Can't You See Me?
+Taehyun,TXT,Big Hit Entertainment,Can't You See Me?
+HueningKai,TXT,Big Hit Entertainment,Can't You See Me?
+Yeonjun,TXT,Big Hit Entertainment,Blue Hour
+Soobin,TXT,Big Hit Entertainment,Blue Hour
+Beomgyu,TXT,Big Hit Entertainment,Blue Hour
+Taehyun,TXT,Big Hit Entertainment,Blue Hour
+HueningKai,TXT,Big Hit Entertainment,Blue Hour	
+Shownu,MONSTA X,Starship Entertainment,Hero
+Minhyuk,MONSTA X,Starship Entertainment,Hero
+Kihyun,MONSTA X,Starship Entertainment,Hero
+Hyungwon,MONSTA X,Starship Entertainment,Hero
+Joohoney,MONSTA X,Starship Entertainment,Hero
+I.M,MONSTA X,Starship Entertainment,Hero
+Wonho,MONSTA X,Starship Entertainment,Hero
+Shownu,MONSTA X,Starship Entertainment,Beautiful
+Minhyuk,MONSTA X,Starship Entertainment,Beautiful
+Kihyun,MONSTA X,Starship Entertainment,Beautiful
+Hyungwon,MONSTA X,Starship Entertainment,Beautiful
+Joohoney,MONSTA X,Starship Entertainment,Beautiful
+I.M,MONSTA X,Starship Entertainment,Beautiful
+Wonho,MONSTA X,Starship Entertainment,Beautiful
+Shownu,MONSTA X,Starship Entertainment,Shoot Out
+Minhyuk,MONSTA X,Starship Entertainment,Shoot Out
+Kihyun,MONSTA X,Starship Entertainment,Shoot Out
+Hyungwon,MONSTA X,Starship Entertainment,Shoot Out
+Joohoney,MONSTA X,Starship Entertainment,Shoot Out
+I.M,MONSTA X,Starship Entertainment,Shoot Out
+Wonho,MONSTA X,Starship Entertainment,Shoot Out
+U-Know Yunho,TVXQ!,SM Entertainment,Mirotic
+Max Changmin,TVXQ!,SM Entertainment,Mirotic
+Hero Jaejoong,TVXQ!,SM Entertainment,Mirotic
+Micky Yoochun,TVXQ!,SM Entertainment,Mirotic
+Xiah Junsu,TVXQ!,SM Entertainment,Mirotic
+U-Know Yunho,TVXQ!,SM Entertainment,Catch Me
+Max Changmin,TVXQ!,SM Entertainment,Catch Me
+U-Know Yunho,TVXQ!,SM Entertainment,Something
+Max Changmin,TVXQ!,SM Entertainment,Something
+S.Coups,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Jeonghan,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Joshua,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Jun,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Hoshi,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Wonwoo,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Woozi,Seventeen,Pledis Entertainment,Don't Wanna Cry
+DK,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Mingyu,Seventeen,Pledis Entertainment,Don't Wanna Cry
+The8,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Seungkwan,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Vernon,Seventeen,Pledis Entertainment,Don't Wanna Cry
+Dino,Seventeen,Pledis Entertainment,Don't Wanna Cry
+S.Coups,Seventeen,Pledis Entertainment,Very Nice
+Jeonghan,Seventeen,Pledis Entertainment,Very Nice
+Joshua,Seventeen,Pledis Entertainment,Very Nice
+Jun,Seventeen,Pledis Entertainment,Very Nice
+Hoshi,Seventeen,Pledis Entertainment,Very Nice
+Wonwoo,Seventeen,Pledis Entertainment,Very Nice
+Woozi,Seventeen,Pledis Entertainment,Very Nice
+DK,Seventeen,Pledis Entertainment,Very Nice
+Mingyu,Seventeen,Pledis Entertainment,Very Nice
+The8,Seventeen,Pledis Entertainment,Very Nice
+Seungkwan,Seventeen,Pledis Entertainment,Very Nice
+Vernon,Seventeen,Pledis Entertainment,Very Nice
+Dino,Seventeen,Pledis Entertainment,Very Nice
+S.Coups,Seventeen,Pledis Entertainment,Clap
+Jeonghan,Seventeen,Pledis Entertainment,Clap
+Joshua,Seventeen,Pledis Entertainment,Clap
+Jun,Seventeen,Pledis Entertainment,Clap
+Hoshi,Seventeen,Pledis Entertainment,Clap
+Wonwoo,Seventeen,Pledis Entertainment,Clap
+Woozi,Seventeen,Pledis Entertainment,Clap
+DK,Seventeen,Pledis Entertainment,Clap
+Mingyu,Seventeen,Pledis Entertainment,Clap
+The8,Seventeen,Pledis Entertainment,Clap
+Seungkwan,Seventeen,Pledis Entertainment,Clap
+Vernon,Seventeen,Pledis Entertainment,Clap
+Dino,Seventeen,Pledis Entertainment,Clap
